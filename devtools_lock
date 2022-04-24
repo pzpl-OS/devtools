@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo "This file blocks the execution of pzpl OS devtools on this system"
+echo "If you know what you are doing, remove this file to authorize the devtools."
+echo "On production systems - such as in schools - it's highly recommended to leave this file intact."
+echo "Doing otherwise may lead to a security risk."
